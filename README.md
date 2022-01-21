@@ -16,10 +16,12 @@
 3. 게임 구현 테스트
 4. 게임 실행  
 <img src="https://user-images.githubusercontent.com/39684855/150558538-13b619ba-fe4e-400c-862b-629da726833c.png"  width="600" height="100">
+
 5. API 구현  
 6. 게임 드라이버의 구현  
 7. Apache 서버의 WSGI 설정  
 8. 서버 테스트  
 9. 터미널에서 curl 이용해 기본 동작 테스트  
 <img src="https://user-images.githubusercontent.com/39684855/150559247-76feee3d-7845-4297-9172-8ff4fa23364f.JPG" width="950" height="110">
-10. 게임 클라이언트 개발 - App inventor -> 미완성
+
+10. 게임 클라이언트 개발 - App inventor -> 미완성  
